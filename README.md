@@ -22,7 +22,7 @@ Repositorio: https://github.com/gisellamadeleyne4-hue/planificador-kardex
 Sitio GitHub Pages: https://gisellamadeleyne4-hue.github.io/planificador-kardex/
 
 ## Aportes y ayuda recibida
-Aporte propio: planificador de S7 (tres TODO, personalización), integración del kardex, personalización, pruebas y publicación. Ayuda: asistente de IA (Claude, Anthropic, 29/10/2026) para integrar los fragmentos, ajustar kardex.js (códigos M001, mensajes visibles) y preparar el borrador del informe. El detalle está en el PDF entregado en MAXEDRA.
+Aporte propio: planificador de S7 (tres TODO, personalización), integración del kardex, personalización, pruebas y publicación. Ayuda: asistente de IA (Claude, Anthropic,desde el 29/10/2026) para integrar los fragmentos, ajustar kardex.js (códigos M001, mensajes visibles) y preparar el borrador del informe. El detalle está en el PDF entregado en MAXEDRA.
 
 ## Límites
 Los datos del kardex se guardan con localStorage: pertenecen sólo a este navegador y origen; no hay base de datos compartida ni varios usuarios. El CSV es una copia de los movimientos, no una sincronización con Excel. El saldo del pedido (dinero) y la existencia (unidades) son datos distintos. Todos los datos son ficticios.

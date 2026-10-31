@@ -1,4 +1,4 @@
-# Planificador de materiales con kardex (ET505 · Semana 9)
+# Planificador de materiales de Gisella Altamirano con Kardex (ET505 · Semana 9)
 
 ## Propósito
 Ampliación de mi Planificador de Materiales de Semana 7 (exposición artística escolar, presupuesto de S/ 50.00). Se conservan el cálculo, el presupuesto y la validación del pedido, y se añade un pequeño kardex: materiales ficticios con código estable (M001, M002...), búsqueda por nombre o código, cambio de nombre por id, entradas y salidas enteras positivas, existencia física, inactivación o eliminación, guardado en el navegador y exportación de movimientos a CSV.

@@ -18,8 +18,8 @@ Local: conserve los cinco archivos juntos y abra index.html en Chrome o Edge. Pu
 4. Exportar CSV descarga movimientos-materiales.csv, que se puede abrir en Excel.
 
 ## Publicación
-Repositorio: [PEGAR AQUÍ la URL de mi repositorio]
-Sitio GitHub Pages: [PEGAR AQUÍ la URL que GitHub muestra]
+Repositorio: https://github.com/gisellamadeleyne4-hue/planificador-kardex
+Sitio GitHub Pages: https://gisellamadeleyne4-hue.github.io/planificador-kardex/
 
 ## Aportes y ayuda recibida
 Aporte propio: planificador de S7 (tres TODO, personalización), integración del kardex, personalización, pruebas y publicación. Ayuda: asistente de IA (Claude, Anthropic, 29/10/2026) para integrar los fragmentos, ajustar kardex.js (códigos M001, mensajes visibles) y preparar el borrador del informe. El detalle está en el PDF entregado en MAXEDRA.
